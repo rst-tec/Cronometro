@@ -59,10 +59,7 @@ button:hover {
 @media (max-width:800px) {
 
     .wrapper {
-        width: 350px;        
-        text-align: center;
-        text-align: center;        
+        width: 350px;                      
         color: black; 
     }
-
 }
