@@ -47,3 +47,17 @@ button:hover {
     border: solid 1px #fff;
     color: #2ecc7d;
 }
+
+/* RESPONSIVE ======================*/
+@media (min-width:800px) {
+    html{
+        font-size: 87.5%;        
+    }
+
+    #balance{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+    }
+
+}
