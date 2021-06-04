@@ -58,19 +58,9 @@ button:hover {
 /* RESPONSIVE ======================*/
 @media (max-width:800px) {
 
-    h1, h2, h3{
-        text-align: left;        
-        color: black;    
-    }
-    
-    button{
-        display: flex;
-        margin-left: 10%;        
-    }   
-
-   p {
-        text-align: left;  
-        color: black;   
+    .wrapper {
+        width: 350px;        
+        text-align: center;
     }
 
 }
